@@ -1,6 +1,6 @@
 class NegociacoesView   extends View{
 
-    _temlate(model){
+    temlate(model){
         return `
         <table class="table table-hover table-bordered">
         <thead>
